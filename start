@@ -1,0 +1,2 @@
+Terminal= true
+Exec= python3 password_manager.py
